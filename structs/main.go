@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 type Node struct {
-	int name `noder`
+	name int `noder`
 }
 
 func main() {
